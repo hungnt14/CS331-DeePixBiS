@@ -8,9 +8,9 @@ Instructor: PhD. Tien-Dung Mai
 Students:
 | Name | Student ID |
 |-|-|
-| Lê Xuân Tùng | 20520347 |
-| Lê Phước Vĩnh Linh | 20521531 |
-| Nguyễn Tiến Hưng | 20520198 |
+| [Lê Xuân Tùng](https://github.com/coderaohong) | 20520347 |
+| [Lê Phước Vĩnh Linh](https://github.com/lephuocvinhlinh) | 20521531 |
+| [Nguyễn Tiến Hưng](https://github.com/hungnt14) | 20520198 |
 
 # Dataset:
 We use the [Zalo AI Challenge 2022 - Liveness Detection task](https://challenge.zalo.ai/portal/liveness-detection) dataset to benchmark DeepPixBiS model [1]. First we hand-labelled 2 public test datasets. Then, we extracted frames using 2 methods: median frame and skip frames (1 second) from videos in this dataset. 
