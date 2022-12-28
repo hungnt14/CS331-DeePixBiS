@@ -2,7 +2,9 @@ CS331-DeepPixBiS - DEEP PIXEL-WISE BINARY SUPERVISION FOR FACE ANTI SPOOFING
 
 # Info
 Course: CS331.N11.KHTN
+
 Instructor: PhD. Tien-Dung Mai
+
 Students:
 | Name | Student ID |
 |-|-|-|
