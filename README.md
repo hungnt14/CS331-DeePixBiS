@@ -15,7 +15,7 @@ Students:
 # Dataset:
 We use the [Zalo AI Challenge 2022 - Liveness Detection task](https://challenge.zalo.ai/portal/liveness-detection) dataset to benchmark DeepPixBiS model [1]. First we hand-labelled 2 public test datasets. Then, we extracted frames using 2 methods: median frame and skip frames (1 second) from videos in this dataset. 
 
-You can download the original dataset on [competition portal](https://challenge.zalo.ai/portal/liveness-detection) and you our provided scripts to extract frames (see `preprocess_scripts` folder). Make sure that your `original_data` folder has below structure to run our pre-process scripts properly.
+You can download the original dataset on [competition portal](https://challenge.zalo.ai/portal/liveness-detection) and our provided scripts to extract frames (see `preprocess_scripts` folder). Make sure that your `original_data` folder has below structure to run our pre-process scripts properly.
 
 ```
 .
@@ -29,7 +29,7 @@ You can download the original dataset on [competition portal](https://challenge.
 Or you can download our pre-processed data [here](https://drive.google.com/file/d/1G7zaXwnVBvrK7EyA7OvHT_lZkqLm-Vks/view?usp=share_link)
 
 # Instruction
-- Install require libraries:
+- Install required libraries:
 ```
 pip3 install -r requirements.txt
 ```
